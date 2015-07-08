@@ -1,3 +1,4 @@
-[REFrostedViewController](https://github.com/romaonthego/REFrostedViewController)
+- [REFrostedViewController](https://github.com/romaonthego/REFrostedViewController)
 
-[![](http://gh-btns.cjwirth.com/stars/shu223/AnimatedTransitionGallery)](hoge)
+
+![](http://ghbtns.com/github-btn.html?user=romaonthego&repo=REFrostedViewController&type=watch&count=true&allowtransparency=true)
